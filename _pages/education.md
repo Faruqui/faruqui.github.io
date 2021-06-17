@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Education & Awards"
+title: ""
 permalink: /education/
 author_profile: true
 ---
