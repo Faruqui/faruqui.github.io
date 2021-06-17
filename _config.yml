@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "S. M. Al Faruqui"
   avatar           : "profile.png"
-  bio              : "Teaching Assistant at NSU"
+  bio              : #"Teaching Assistant at NSU"
   location         : "Dhaka, Bangladesh"
   employer         :
   pubmed           : 
