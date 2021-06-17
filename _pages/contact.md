@@ -1,15 +1,17 @@
 ---
 layout: archive
-title: "Contact"
+title: ""
 permalink: /contact/
 author_profile: true
 ---
 
+## Email
 
-* **Email:**
 * faruqui682@gmail.com
 * s.m.faruqui@northsouth.edu
 
-* **Website:**
+
+## Website
+
 * https://faruqui.github.io/
 * https://steamcommunity.com/id/faruqui/
