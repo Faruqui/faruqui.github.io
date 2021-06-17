@@ -24,9 +24,7 @@ It can also help artists get a feel for the colored version of their sketches.
 
 * **Dementia Prediction Using Different Machine Learning Model:**
   * **Technology:** Python, Scikit-learn & Numpy. 
-  * Our project can help the general public get an idea about the possibility of dementia in adult patients by simply inputting MRI data. 
- Hopefully, it will prompt the patient(s) to get early treatment for dementia and improve their life. 
- We used the "MRI and Alzheimers" dataset provided by the Open Access Series of Imaging Studies (OASIS) project. 
+  * We used the "MRI and Alzheimers" dataset provided by the Open Access Series of Imaging Studies (OASIS) project. 
  We used this dataset to train SVM, Logistic Regression, Decision Tree, and Random Forest, models. 
  We used accuracy, recall, AUC, and confusion matrix as evaluation metrics. 
  To improve our result, we fine-tuned all our models using the Grid Search method. [Code](https://github.com/Faruqui/Dementia-Prediction-Using-Different-ML-Model)
