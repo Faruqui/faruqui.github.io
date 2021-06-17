@@ -4,6 +4,7 @@ title: ""
 permalink: /projects/
 author_profile: true
 ---
+---
 
 ## Research Projects
 
@@ -21,7 +22,6 @@ author_profile: true
   *  We explored different Learning Rate scheduler fucntions and proposed five different learning rate scheduling to train any deep learning model. This project aims to help in 
 choosing an optimum learning rate, which will acheive higher accuracy and reduce the time of convergence at an optimum point. This project was done under the supervision of 
   [Dr. Md Shahriar Karim](http://ece.northsouth.edu/people/md-shahriar-karim/), Assistant Professor, North South University, Bangladesh.
-  [[project report](https://drive.google.com/file/d/1yM2Kmbu-H5G5oiZjyGQOgjMsYydOWUYl/view?usp=sharing), [presentation video](https://drive.google.com/file/d/1pPwuG_ziK1RVPVgoJeBnRalJmnYIsFIq/view?usp=sharing)]
   
 ---
 
@@ -55,7 +55,7 @@ It can also help artists get a feel for the colored version of their sketches.
   * **Technology:** Python, Django, JavaScript, Bootstrap4, SQLite
   *  Has Health Blog, E Prescription, Health Profile, Hospital List. Patients can get e-prescriptions from doctors. [Code](https://github.com/Faruqui/healix)
 
-* **Hospital DatabaseManagement:**
+* **Hospital Management System:**
   * **Technology:** Java, JDBC, Apache Derby, JavaFX
   * A desktop application used to store patients and doctors information of a particular hospital. Patients can also set appointments with doctors. [Code](https://github.com/Faruqui/Hospital-Database-Management-JAVA)
 
