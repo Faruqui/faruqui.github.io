@@ -12,8 +12,11 @@ main:
   - title: "Projects"
     url: /projects/
          
-  - title: "CV"
-    url: /cv/
+#   - title: "CV"
+#     url: /cv/
+
+  - title: "Awards"
+    url: /awards/
     
   - title: "Contact"
     url: /contact/    
