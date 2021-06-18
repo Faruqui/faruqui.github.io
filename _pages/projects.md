@@ -53,7 +53,7 @@ It can also help artists get a feel for the colored version of their sketches.
 
 * **Healix:**
   * **Technology:** Python, Django, JavaScript, Bootstrap4, SQLite
-  *  Has Health Blog, E Prescription, Health Profile, Hospital List. Patients can get e-prescriptions from doctors. [Code](https://github.com/Faruqui/healix)
+  *  An online platform for doctors and patients. Has Health Blog, E Prescription, Health Profile, Hospital List. Patients can store prescriptions and test reports as PDF. Patients can get e-prescriptions from doctors. [Code](https://github.com/Faruqui/healix)
 
 * **Hospital Management System:**
   * **Technology:** Java, JDBC, Apache Derby, JavaFX
