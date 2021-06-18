@@ -36,3 +36,13 @@ author_profile: true
 - [Certificate & Transcript](https://drive.google.com/file/d/1y7lXbAFlP9t9P9RyP2DiiUXw0Uz3Rb3Q/view?usp=sharing)
 
 ---
+
+## Junior School Certificate (JSC) 
+
+---
+
+- [Rajuk Uttara Model College (RUMC)](https://rajukcollege.net/), Dhaka, Bangladesh.
+- **GPA: 4.86** <span> [*out of 5.00* ] </span>
+- [Certificate & Transcript](https://drive.google.com/file/d/1-EZn4lyv03Nne3z36KIhpTczi4i1gCjF/view?usp=sharing)
+
+---
