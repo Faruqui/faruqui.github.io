@@ -9,9 +9,9 @@ author_profile: true
 
 ---
 
-### **Graduate Teaching Assistant**
+### Graduate Teaching Assistant
 [Department of Electrical and Computer Engineering (ECE)](http://ece.northsouth.edu/), [North South University](http://www.northsouth.edu/), Bangladesh.  _[February 2021 - Present]_
-* Courses:
+* **Courses:**
   * CSE411: Advanced Database Systems
   * CSE332: Computer Organization and Architecture
 
@@ -19,9 +19,9 @@ author_profile: true
 
 ---
 
-### **Undergraduate Teaching Assistant**
+### Undergraduate Teaching Assistant
 [Department of Electrical and Computer Engineering (ECE)](http://ece.northsouth.edu/), [North South University](http://www.northsouth.edu/), Bangladesh.  _[January 2020 - Jan, 2021]_
-* Courses:
+* **Courses:**
   * CSE215: Object Oriented Programming (Java)
   * CSE331: Microprocessor Interfacing & Embedded System
 
