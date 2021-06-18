@@ -11,6 +11,6 @@ author_profile: true
 
 - **Summa cum laude**, (Bachelor of Science)
 - Received **Full Free Scholarship** during Undergraduate studies based on academic excellence.
-- **Ranked 3rd** and acheived 75% tution waiver in the admission test of North South University, Bangladesh. 
+- **Ranked 3rd** and achieved 75% tuition waiver in the admission test of North South University, Bangladesh. 
 
 ---
