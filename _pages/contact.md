@@ -17,3 +17,4 @@ author_profile: true
 * [Steam Profile](https://steamcommunity.com/id/faruqui/)
 * [MyAnimeList Profile](https://myanimelist.net/profile/Faruqui682)
 * [Spotify](https://open.spotify.com/user/21ngjjzfsgvbfcfqquwwucpyq)
+* Discord ID: Faruqui#8876
