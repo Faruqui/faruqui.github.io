@@ -13,6 +13,7 @@ author_profile: true
 
 - [North South University (NSU)](http://www.northsouth.edu/), Dhaka, Bangladesh.
 - **CGPA: 3.93** <span> [*out of 4.00* ] </span>
+- **Specialization:** Artificial Intelligence
 - [Transcript](https://drive.google.com/file/d/1cyp0HKIdNVS2nySOBPYU0JaIHCrS210j/view?usp=sharing)
 
 ---
