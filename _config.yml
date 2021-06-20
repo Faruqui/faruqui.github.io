@@ -95,7 +95,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "al.faruqui"
+  facebook         : #"al.faruqui"
   foursquare       :
   github           : "faruqui"
   google_plus      :
@@ -110,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            : "faruqui"
   tumblr           :
-  twitter          : "Faruqui1"
+  twitter          : #"Faruqui1"
   vine             :
   weibo            :
   xing             :
