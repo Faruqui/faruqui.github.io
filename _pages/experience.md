@@ -13,7 +13,7 @@ author_profile: true
 * **Course:** CSE115L – Programming Language I
   * Conducting the lab classes of the enrolled undergraduate students
   * Prepare Lab Manuals of the respective lab sessions
-  * Conducting and grading all Lab related exams
+  * Conducting and grading all Lab related assessments (Assignment, Quiz, Mid, Final, Viva)
 
 ### *Graduate Teaching Assistant*  _[Feb 2021 - Present]_ 
 * [Department of Electrical and Computer Engineering (ECE)](http://ece.northsouth.edu/), [North South University](http://www.northsouth.edu/), Bangladesh.
