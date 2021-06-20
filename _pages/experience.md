@@ -28,6 +28,7 @@ author_profile: true
   * Conducted tutorial sessions for students needing extra help outside of class hours by holding weekly office hour.
   * Graded assignments, home works and project of undergraduate students. 
   * Assisted faculty with recordkeeping, tracking attendance and calculating grades.
+ 
 ---
 
 ## Research Experience
