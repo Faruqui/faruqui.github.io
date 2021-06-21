@@ -12,4 +12,3 @@ My name is S. M. Al Faruqui. I have completed my B.Sc degree in Computer Science
 
 My research interests are in AL and Deep Learning: Computer Vision(CV), Natural language processing (NLP).
 
-**For additional information, please see the [CV](https://drive.google.com/file/d/1WRgq5lgTOI4BY5xUazc2aChDsq9dVJ0G/view?usp=sharing) _(Last Updated on May 18, 2021)_.**
