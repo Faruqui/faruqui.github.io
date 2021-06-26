@@ -8,7 +8,7 @@ author_profile: true
 ##  Teaching Experience
 
 ---
-### *Lab Instructor*  _[Jun 2021 - Present]_ 
+### *Lab Instructor* 
 * [Department of Electrical and Computer Engineering (ECE)](http://ece.northsouth.edu/), [North South University](http://www.northsouth.edu/), Bangladesh.
 * **Course:** CSE115L – Programming Language I
   * Conducting the lab classes of the enrolled undergraduate students
