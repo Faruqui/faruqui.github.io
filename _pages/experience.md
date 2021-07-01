@@ -8,14 +8,14 @@ author_profile: true
 ##  Teaching Experience
 
 ---
-### *Lab Instructor* 
+### *Lab Instructor* _[Jun 2021 - Present]_ 
 * [Department of Electrical and Computer Engineering (ECE)](http://ece.northsouth.edu/), [North South University](http://www.northsouth.edu/), Bangladesh.
 * **Course:** CSE115L – Programming Language I
   * Conducting the lab classes of the enrolled undergraduate students
   * Prepare Lab Manuals of the respective lab sessions
   * Conducting and grading all Lab related assessments (Assignment, Quiz, Mid, Final, Viva)
 
-### *Graduate Teaching Assistant*  _[Feb 2021 - Present]_ 
+### *Graduate Teaching Assistant*  _[Feb 2021 - May 2021]_ 
 * [Department of Electrical and Computer Engineering (ECE)](http://ece.northsouth.edu/), [North South University](http://www.northsouth.edu/), Bangladesh.
 * **Courses:** CSE411: Advanced Database Systems, CSE332: Computer Organization and Architecture
   * Conducted tutorial sessions for students needing extra help outside of class hours by holding weekly office hour.
