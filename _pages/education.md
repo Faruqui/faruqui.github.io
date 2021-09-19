@@ -24,7 +24,7 @@ author_profile: true
 
 - [Rajuk Uttara Model College (RUMC)](https://rajukcollege.net/), Dhaka, Bangladesh.
 - **GPA: 5** <span> [*out of 5.00* ] </span>
-- [Certificate & Transcript](https://drive.google.com/file/d/1_cOT9AsCqAGTZ1lT76J7yixbA6glBK1n/view?usp=sharing)
+<!-- - [Certificate & Transcript](https://drive.google.com/file/d/1_cOT9AsCqAGTZ1lT76J7yixbA6glBK1n/view?usp=sharing) -->
 
 ---
 
@@ -34,7 +34,7 @@ author_profile: true
 
 - [Rajuk Uttara Model College (RUMC)](https://rajukcollege.net/), Dhaka, Bangladesh.
 - **GPA: 5** <span> [*out of 5.00* ] </span>
-- [Certificate & Transcript](https://drive.google.com/file/d/1y7lXbAFlP9t9P9RyP2DiiUXw0Uz3Rb3Q/view?usp=sharing)
+<!-- - [Certificate & Transcript](https://drive.google.com/file/d/1y7lXbAFlP9t9P9RyP2DiiUXw0Uz3Rb3Q/view?usp=sharing) -->
 
 ---
 
@@ -44,6 +44,6 @@ author_profile: true
 
 - [Rajuk Uttara Model College (RUMC)](https://rajukcollege.net/), Dhaka, Bangladesh.
 - **GPA: 4.86** <span> [*out of 5.00* ] </span>
-- [Certificate & Transcript](https://drive.google.com/file/d/1-EZn4lyv03Nne3z36KIhpTczi4i1gCjF/view?usp=sharing)
+<!-- - [Certificate & Transcript](https://drive.google.com/file/d/1-EZn4lyv03Nne3z36KIhpTczi4i1gCjF/view?usp=sharing) -->
 
 ---
