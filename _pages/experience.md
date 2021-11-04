@@ -5,6 +5,12 @@ permalink: /experience/
 author_profile: true
 ---
 
+##  Industry Experience
+### *Graduate Data Scientist* _[Nov 2021 - Present]_ 
+[Pathao](https://pathao.com/?lang=en), Bangladesh
+
+---
+
 ##  Teaching Experience
 
 ---
@@ -32,3 +38,8 @@ author_profile: true
 ---
 
 ## Research Experience
+ 
+---
+
+I am currently working on a facial expression recognition and classification project. 
+
