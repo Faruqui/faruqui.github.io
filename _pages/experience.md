@@ -13,7 +13,6 @@ author_profile: true
 
 ##  Teaching Experience
 
----
 ### *Lab Instructor* _[Jun 2021 - Present]_ 
 * [Department of Electrical and Computer Engineering (ECE)](http://ece.northsouth.edu/), [North South University](http://www.northsouth.edu/), Bangladesh.
 * **Course:** CSE115L – Programming Language I
@@ -34,12 +33,3 @@ author_profile: true
   * Conducted tutorial sessions for students needing extra help outside of class hours by holding weekly office hour.
   * Graded assignments, home works and project of undergraduate students. 
   * Assisted faculty with recordkeeping, tracking attendance and calculating grades.
- 
----
-
-## Research Experience
- 
----
-
-I am currently working on a facial expression recognition and classification project. 
-
