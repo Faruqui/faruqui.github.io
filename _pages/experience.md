@@ -7,7 +7,7 @@ author_profile: true
 
 ##  Industry Experience
 ### *Graduate Data Scientist* _[Nov 2021 - Present]_ 
-[Pathao](https://pathao.com/?lang=en), Bangladesh
+* [Pathao](https://pathao.com/?lang=en), Bangladesh
 
 ---
 
