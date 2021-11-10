@@ -5,15 +5,15 @@ permalink: /experience/
 author_profile: true
 ---
 
-<!-- ##  Industry Experience
+##  Industry Experience
 ### *Graduate Data Scientist* _[Nov 2021 - Present]_ 
-* [Pathao](https://pathao.com/?lang=en), Bangladesh
+* Marketplace Department, [Pathao](https://pathao.com/?lang=en), Bangladesh
 
---- -->
+---
 
 ##  Teaching Experience
 
-### *Lab Instructor* _[Jun 2021 - Present]_ 
+### *Lab Instructor* _[Jun 2021 - Nov 2021]_ 
 * [Department of Electrical and Computer Engineering (ECE)](http://ece.northsouth.edu/), [North South University](http://www.northsouth.edu/), Bangladesh.
 * **Course:** CSE115L – Programming Language I
   * Conducting the lab classes of the enrolled undergraduate students
