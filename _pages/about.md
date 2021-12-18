@@ -13,5 +13,5 @@ I am currently working as a Graduate Data Scientist at Pathao Limited.
 
 My research interests are in AL and Deep Learning: Computer Vision(CV), Natural language processing (NLP), Emotion Recognition, Facial Expression recognition, object detection. 
 
-My hobbies are gaming, reading, anime and running/jogging.
+My hobbies are gaming, reading, anime, music and running/jogging.
 
